@@ -19,7 +19,7 @@ while(expressao.sub!(/<>/,'')) do
   count += 1
 end
 
-puts count
+puts "Foi extraído #{count} diamantes"
 
 
 
